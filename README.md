@@ -16,7 +16,7 @@ There are edge cases where the built in maintenance mechanims with in Crowdstrik
 
 I have tested this on macOS 10.14.6 and 10.15.3.  Also tested this with Falcon Sensor versions 4.x and 5.x for macOS.  I have only used this on systems that are broken beyond repair and do not work with the built in maintenance token mechanism Crowdstrike provides.
 
-## Requiremetns:
+## Requirements:
 
 Python 3.4+
 
