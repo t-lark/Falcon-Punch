@@ -32,4 +32,6 @@ When the next checkin occurs after after the reboot, a policy will execute the i
 
 ## Could this be improved?
 
-Absolutely, I could write the code to accept arguments, or funble around with date-time libs to convert readable human date stamps to epoch date stamps.  However, my main goal is to not use this, except in situations where the built in mechanisms fail.  I intend to use the built in maitnenance mechanism with Crowdstrike once I remeidate all the broken agents from various edge cases.
+Absolutely, I could write the code to accept arguments, or fumble around with date-time libs to convert readable human date stamps to epoch date stamps.  However, my main goal is to not use this, except in situations where the built in mechanisms fail.  I intend to use the built in maitnenance mechanism with Crowdstrike once I remeidate all the broken agents from various edge cases.  So, I am not going to put much or any imporvements into this.
+
+If you don't ship Python 3, you could rewrite this in `zsh` as most of this script is calling Unix binaries anyway 
