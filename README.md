@@ -1,6 +1,8 @@
 # Falcon-Punch
 force reinstall and remediation of broken Crowdstrike Falcon agents on macOS
 
+## Credits
+This solution was based off the original sript that Patrick Gallagher on the Mac Admins Slack provided, I rewrote it in Python 3 so I could display a heart emoji in my dialog boxes.  Yes, a heart emoji you read that correctly.
 
 ## What is this?
 
