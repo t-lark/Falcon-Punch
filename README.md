@@ -1,3 +1,6 @@
+# IMPORTANT UPDATE
+Crowdstrike has patched in new features into their application/agent that now block all these methods and this repo no longer is valid. I will leave it up in case folks are using older versions of CS. Consider this archived though.
+
 # Falcon-Punch
 force reinstall and remediation of broken Crowdstrike Falcon agents on macOS
 
